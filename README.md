@@ -38,26 +38,37 @@ being solved by active learning techniques. Some applications shown in Fig. 1.3.
 include speech recognition, information extraction or handwriting recognition, etc. 
 # Advantages of HAR:
 a. It gives fast and real-time predictions of problems
+
 b. Efficiently utilizes the resources
+
 c. Helps in the automation of different tasks
+
 d. It is used in business, medicine, sports, etc.
+
 e. It helps to interpret the previous behavior of the model.
-@ Applications of HAR:
+
+# Applications of HAR:
 a. Surveillance: Cameras are installed in areas that may need monitoring, such as 
 banks, airports, military installations, and convenience stores. Currently, 
 surveillance systems are mainly for recording. The Aim of activity detection 
 using CCTV‟s is to monitor suspicious activities for real-time reactions like 
-fighting and stealing
+fighting and stealing.
+
 b. Sports play analysis: analyzing the play and deducing the actions in the sport. 
+
 c. Unmanned Aerial Vehicles (UAVs): Automated understanding of aerial 
 images. Recognition of military activities like border security, people in 
 bunkers etc. 
+
 d. Monitor Health: Analyze a person's activity from the information collected by 
 different devices.
+
 e. Discover activity partners: Discover which are the variables that determine
 which activity is doing a person.
+
 f. Detect activity: Calculate a predictive model that can recognize a person's 
 activity from the signals received by the sensors.
+
 g. Improve wellbeing: Design individualized exercise tables to improve the 
 health of a person.
 
